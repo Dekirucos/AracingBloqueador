@@ -1,4 +1,5 @@
 {
-  "cliente": "1.6",
-  "servidor": "1.6"
+  "cliente": "1.8",
+  "servidor": "1.8",
+  "cliente_archivos": ["opencv_videoio_ffmpeg4100_64.dll"]
 }
